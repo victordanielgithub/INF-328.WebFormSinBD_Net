@@ -1,0 +1,10 @@
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\bin\Debug\WFAlumnoSinBD.exe.config
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\bin\Debug\WFAlumnoSinBD.exe
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\bin\Debug\WFAlumnoSinBD.pdb
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.csprojAssemblyReference.cache
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.Form1.resources
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.Properties.Resources.resources
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.csproj.GenerateResource.cache
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.csproj.CoreCompileInputs.cache
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.exe
+C:\Users\Oriana\source\repos\WFAlumnoSinBD\WFAlumnoSinBD\obj\Debug\WFAlumnoSinBD.pdb
